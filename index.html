@@ -4,9 +4,28 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Main</title>
+    <title>Document</title>
 </head>
 <body>
-    <h1>Rama main</h1>
+    
+<h3>Para crear un arreglo debes ingresar los elementos separados por comas
+    de la forma: 1,24,31</h3>
+
+<input type="text" id="idElementosArreglo" placeholder="Ingresa los elementos">
+<button onclick="generarArreglo()">Generar arreglo</button>
+
+<p id="idTextArregloIngresado"> </p>
+
+<h3>Ingresa el elemento a añadido</h3>
+<input type="text" id="idElementoNuevo" placeholder="Elemento">
+
+<h3>Ingresa su posicion (o indice)</h3>
+<input type="text" id="idPosicion" placeholder="Indice">
+<button onclick="insertarElemento()">Añadir elemento</button>
+
+<p id="arregloResultado"> </p>
+
+<script src="arregloActividad.js"></script>
 </body>
 </html>
+
