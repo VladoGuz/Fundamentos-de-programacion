@@ -1,7 +1,7 @@
 # Fundamentos-de-programacion
 
 
-```
+```js
 const obj = {
     nombre: "Vladimir",
     edad: 21,
