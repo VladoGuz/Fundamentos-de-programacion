@@ -1,12 +1,33 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-    <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Main</title>
+    <title>Formula General</title>
 </head>
+
 <body>
-    <h1>Rama main</h1>
+
+    <p>Una ecuacion cuadratica es de la forma: <math>
+            <mrow>
+                <mi>x</mi>
+                <mo>&sup2;</mo>
+                <mo>+</mo>
+                <mi>bx</mi>
+                <mo>+</mo>
+                <mi>c</mi>
+                <mo>=</mo>
+                <mn>0</mn>
+            </mrow>
+        </math></p>
+    <input type="text" id="idA" placeholder="a">
+    <input type="text" id="idB" placeholder="b">
+    <input type="text" id="idC" placeholder="c">
+
+    <script src="FormulaGeneral.js"></script>
+    <button onclick="calcularEcuacionCuadratica()"> Calcular </button>
+    <p id="idTextResult"></p>
 </body>
+
 </html>
