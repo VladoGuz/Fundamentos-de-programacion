@@ -14,7 +14,9 @@ const propiedad2 = obj[edad];
 const propiedad3 = obj[ciudad];
 //Ahora si puede acceder porque recibe un string y no una variable
 const propiedadNombre = obj["nombre"];
-```## JSON: JavaScript Object Notation
+```
+
+## JSON: JavaScript Object Notation
 
 JSON (JavaScript Object Notation) es un formato de intercambio de datos ligero y fácil de leer y escribir. Se basa en la sintaxis de objetos de JavaScript, pero se puede utilizar en diferentes lenguajes de programación. A continuación, se explorará qué es JSON, su estructura, su uso y ejemplos prácticos.
 
