@@ -1,7 +1,7 @@
 # Fundamentos-de-programacion
 
 
-´´´
+```
 const obj = {
     nombre: "Vladimir",
     edad: 21,
@@ -14,4 +14,4 @@ const propiedad2 = obj[edad];
 const propiedad3 = obj[ciudad];
 //Ahora si puede acceder porque recibe un string y no una variable
 const propiedadNombre = obj["nombre"];
-´´´
+```
