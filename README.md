@@ -90,6 +90,4 @@ En este ejemplo, tenemos una matriz JSON que contiene tres objetos, cada uno rep
 
 ### Conclusión
 
-JSON es un formato versátil y ampliamente utilizado para el intercambio de datos en aplicaciones web y servicios web. Su estructura sencilla y legible lo convierte en una opción popular para represent
-
-ar datos estructurados. A través de pares clave-valor, JSON permite transmitir y almacenar información de manera eficiente.
+JSON es un formato versátil y ampliamente utilizado para el intercambio de datos en aplicaciones web y servicios web. Su estructura sencilla y legible lo convierte en una opción popular para representar datos estructurados. A través de pares clave-valor, JSON permite transmitir y almacenar información de manera eficiente.
